@@ -239,6 +239,65 @@ nav{
     padding: 5% 100px;
 }
 
+/* Small chops */
+/* .chops h1{
+    text-align: center;
+    font-size: 3em;
+
+}
+
+.chops h1 i{
+    color: rgb(146, 146, 244);
+}
+
+.chops-grid{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    padding: 0 120px;
+}
+
+.chops-post{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    column-gap: 10px;
+    height:160px ;
+    margin: 15px 0;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 40px;
+    padding-top: 20px;
+
+}
+.chops-img img{
+    width: 100%;
+    height: 160px;
+}
+.chops-text{
+    overflow: hidden;
+}
+.chops-text h4{
+    margin-top: 0;
+    color: grey;
+}
+.chops-text .text{
+    font-weight: bolder;
+    font-size: 1.5em;
+}
+.chops-text .star{
+    color: orangered;
+} */
+
+
+
+/* contact */
+.contactbg {
+    background-image: linear-gradient(to right ,skyblue,navy,pink);
+    height: 500px;
+    width: 80%;
+    margin: auto;
+
+    padding: 5% 10
+}
+
 .contact{
     background-color: white;
     height: 300px;
